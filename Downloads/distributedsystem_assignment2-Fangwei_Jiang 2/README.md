@@ -1,0 +1,1 @@
+This project aims to develop a multi users whiteboard and char window.
